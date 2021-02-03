@@ -6,7 +6,7 @@ class MyComponent extends React.Component {
   constructor() {
     super();
     this.state = {
-      html: `<p>Hello <b>World</b> !</p><p>Paragraph 2</p>`,
+      html: `<p>Hello <b>World</b> !</p><p>Paragraph B</p>`,
       editable: true
     };
   }
